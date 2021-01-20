@@ -1,9 +1,14 @@
 import React from 'react'
+import Login from './Login'
+import Logout from './Logout'
 
-const App = () => (
-  <div>
-    <h1>Amazon Alert!!!!!!!!!!!!</h1>
-  </div>
-)
+const App = () => {
+  return (
+    <div>      
+      <Login />
+      <Logout />
+    </div>
+  )
+}
 
 export default App
