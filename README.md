@@ -1,3 +1,3 @@
 # Amazon-Alert
-Yours Truly, 
-Chanmin Park and Youngkwang Lee <3
+Made with <3.
+Chanmin Park and Youngkwang Lee
