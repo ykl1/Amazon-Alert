@@ -1,3 +1,3 @@
 # Amazon-Alert
-Made with <3.
+Made with ♥.
 Chanmin Park and Youngkwang Lee
